@@ -294,8 +294,8 @@
         </mxCell>
         <mxCell id="na7N5Nit0AESVL7zyA8f-67" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1223" y="789.5" as="sourcePoint" />
-            <mxPoint x="1274" y="789.5" as="targetPoint" />
+            <mxPoint x="1498" y="719.72" as="sourcePoint" />
+            <mxPoint x="1540" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
