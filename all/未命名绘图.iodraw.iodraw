@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="na7N5Nit0AESVL7zyA8f-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;Conv3×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="725" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
