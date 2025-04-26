@@ -40,7 +40,7 @@
             <mxPoint x="532" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="na7N5Nit0AESVL7zyA8f-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Conv1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="na7N5Nit0AESVL7zyA8f-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Conv1×1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
