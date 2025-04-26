@@ -457,6 +457,9 @@
             <mxPoint x="1255" y="1090.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="na7N5Nit0AESVL7zyA8f-103" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Sigmoid&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1070.5" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
