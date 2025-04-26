@@ -200,10 +200,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="na7N5Nit0AESVL7zyA8f-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Global pooling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="653" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="651" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="na7N5Nit0AESVL7zyA8f-43" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;FC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="830" y="750" width="98" height="60" as="geometry" />
+          <mxGeometry x="825" y="750" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="na7N5Nit0AESVL7zyA8f-44" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
