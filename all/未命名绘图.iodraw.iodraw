@@ -199,7 +199,7 @@
             <mxPoint x="673" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="na7N5Nit0AESVL7zyA8f-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="na7N5Nit0AESVL7zyA8f-41" value="Global pooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
