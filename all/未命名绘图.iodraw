@@ -55,7 +55,7 @@
             <mxPoint x="64.80000000000001" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gI9PMfrPcBxfe3CIxSk4-20" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;" edge="1" parent="gI9PMfrPcBxfe3CIxSk4-61">
+        <mxCell id="gI9PMfrPcBxfe3CIxSk4-20" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=none;" edge="1" parent="gI9PMfrPcBxfe3CIxSk4-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1.4210854715202004e-14" as="sourcePoint" />
             <mxPoint x="1.4210854715202004e-14" y="22" as="targetPoint" />
@@ -502,7 +502,7 @@
         <mxCell id="gI9PMfrPcBxfe3CIxSk4-147" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CCSS-YOLO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="455" y="325" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gI9PMfrPcBxfe3CIxSk4-150" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gI9PMfrPcBxfe3CIxSk4-150" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="885.17" y="596" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
