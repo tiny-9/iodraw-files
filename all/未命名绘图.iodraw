@@ -346,6 +346,9 @@
         <mxCell id="gI9PMfrPcBxfe3CIxSk4-87" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;spacingBottom=0;" vertex="1" parent="1">
           <mxGeometry x="963" y="859" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gI9PMfrPcBxfe3CIxSk4-88" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Upsample&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
