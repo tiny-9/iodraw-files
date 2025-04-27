@@ -484,8 +484,8 @@
         <mxCell id="gI9PMfrPcBxfe3CIxSk4-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;CCFM-YOLO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gI9PMfrPcBxfe3CIxSk4-137">
           <mxGeometry x="940" y="224" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gI9PMfrPcBxfe3CIxSk4-141" value="Detect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="708" width="60" height="30" as="geometry" />
+        <mxCell id="gI9PMfrPcBxfe3CIxSk4-141" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Detect&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="703" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
