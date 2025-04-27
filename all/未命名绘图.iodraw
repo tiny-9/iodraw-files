@@ -31,8 +31,8 @@
         <mxCell id="gI9PMfrPcBxfe3CIxSk4-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SPDconv&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gI9PMfrPcBxfe3CIxSk4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="gI9PMfrPcBxfe3CIxSk4-12" value="&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;RepNCSPELAN4-SENetV2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
