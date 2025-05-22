@@ -73,8 +73,8 @@
         <mxCell id="qQep1dCscLVlMp010OV0-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订阅里程计话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="290" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-36" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="qQep1dCscLVlMp010OV0-36" value="发布电机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
