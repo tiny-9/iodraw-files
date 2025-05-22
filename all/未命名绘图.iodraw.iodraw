@@ -130,7 +130,7 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.2613489354999302;endAngle=0.45297913037736937;rotation=-60;dashed=1;fillColor=#FF3333;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="680" y="256.96" width="69.01" height="56.07" as="geometry" />
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-48" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="x5QEphP6Reic_egN8NoS-48" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="614" y="270" width="31" height="15" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -162,6 +162,9 @@
             <mxPoint x="633" y="290.74" as="sourcePoint" />
             <mxPoint x="633" y="264.259" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x5QEphP6Reic_egN8NoS-57" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="624" y="280" width="31" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
