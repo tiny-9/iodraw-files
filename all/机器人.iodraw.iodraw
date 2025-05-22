@@ -199,7 +199,7 @@
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-65" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qQep1dCscLVlMp010OV0-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;目标检测&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
