@@ -7,8 +7,8 @@
         <mxCell id="qQep1dCscLVlMp010OV0-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AMCL定位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-2" value="RTAB-VSLAM三维建图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="140" height="60" as="geometry" />
+        <mxCell id="qQep1dCscLVlMp010OV0-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;RTAB-VSLAM三维建图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
