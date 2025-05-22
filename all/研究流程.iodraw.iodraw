@@ -10,12 +10,6 @@
         <mxCell id="-aWazLUXekewyrhui-cZ-2" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;系统总体结构设计&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="420" y="635" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-aWazLUXekewyrhui-cZ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=宋体;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="566.71" y="170" as="sourcePoint" />
-            <mxPoint x="566.71" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-aWazLUXekewyrhui-cZ-5" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;关键技术攻关&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="570" y="635" width="80" height="70" as="geometry" />
         </mxCell>
