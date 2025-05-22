@@ -14,7 +14,10 @@
           <mxGeometry x="430" y="430" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;全局路径规划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="370" width="130" height="60" as="geometry" />
+          <mxGeometry x="680" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;局部路径规划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
