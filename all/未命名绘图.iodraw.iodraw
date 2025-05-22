@@ -11,7 +11,7 @@
           <mxGeometry x="544" y="358.27" width="26" height="10" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="291" y="295" width="300" height="300" as="geometry" />
+          <mxGeometry x="291" y="299" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="569" y="440" width="26" height="10" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="440" y="338.27" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="497" y="397.5" width="13" height="105" as="geometry" />
+          <mxGeometry x="505.75" y="388.75" width="13" height="122.5" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="440" width="122" height="20" as="geometry" />
