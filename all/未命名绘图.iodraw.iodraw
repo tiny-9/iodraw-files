@@ -130,6 +130,9 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.2613489354999302;endAngle=0.45297913037736937;rotation=-60;dashed=1;fillColor=#FF3333;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="680" y="256.96" width="69.01" height="56.07" as="geometry" />
         </mxCell>
+        <mxCell id="x5QEphP6Reic_egN8NoS-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
