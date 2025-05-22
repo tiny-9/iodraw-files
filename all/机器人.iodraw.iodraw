@@ -70,6 +70,9 @@
         <mxCell id="qQep1dCscLVlMp010OV0-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订阅深度相机话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="680" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订阅里程计话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
