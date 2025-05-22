@@ -88,6 +88,9 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-32" value="&lt;font color=&quot;#ff3333&quot;&gt;运动方向&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="400" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x5QEphP6Reic_egN8NoS-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
