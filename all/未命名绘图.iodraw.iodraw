@@ -85,7 +85,7 @@
             <mxPoint x="600" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-32" value="运动方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="x5QEphP6Reic_egN8NoS-32" value="运动方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="595" y="400" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
