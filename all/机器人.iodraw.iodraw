@@ -77,7 +77,7 @@
           <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发布舵机控制话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-43" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -159,7 +159,7 @@
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-57" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="720" as="sourcePoint" />
+            <mxPoint x="700" y="717" as="sourcePoint" />
             <mxPoint x="700" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
