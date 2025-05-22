@@ -280,8 +280,8 @@
             <mxPoint x="441" y="519.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="450" width="80" height="80" as="geometry" />
+        <mxCell id="qQep1dCscLVlMp010OV0-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
