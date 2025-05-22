@@ -274,10 +274,10 @@
             <mxPoint x="530" y="349.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-102" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;控制层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qQep1dCscLVlMp010OV0-102" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 25px;&quot;&gt;控制层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-103" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;驱动层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qQep1dCscLVlMp010OV0-103" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 25px;&quot;&gt;驱动层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="43" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
