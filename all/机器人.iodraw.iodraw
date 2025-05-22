@@ -262,6 +262,41 @@
             <mxPoint x="530" y="349.64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-84" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#C4C4C4;fillColor=#ffffff;fontColor=#999999;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-85" value="Item 1" style="text;strokeColor=inherit;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=12;" vertex="1" parent="qQep1dCscLVlMp010OV0-84">
+          <mxGeometry width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-86" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#C4C4C4;strokeWidth=3;" vertex="1" parent="qQep1dCscLVlMp010OV0-85">
+          <mxGeometry x="1" y="0.5" width="6" height="12" relative="1" as="geometry">
+            <mxPoint x="-25" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-87" value="Item 2" style="text;strokeColor=inherit;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#5D7585;gradientColor=#008cff;fontColor=#ffffff;fontSize=12;" vertex="1" parent="qQep1dCscLVlMp010OV0-84">
+          <mxGeometry y="20" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-88" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#C4C4C4;strokeWidth=3;" vertex="1" parent="qQep1dCscLVlMp010OV0-87">
+          <mxGeometry x="1" y="0.5" width="6" height="12" relative="1" as="geometry">
+            <mxPoint x="-25" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-89" value="Item 3" style="text;strokeColor=inherit;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=12;" vertex="1" parent="qQep1dCscLVlMp010OV0-84">
+          <mxGeometry y="40" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-90" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#C4C4C4;strokeWidth=3;" vertex="1" parent="qQep1dCscLVlMp010OV0-89">
+          <mxGeometry x="1" y="0.5" width="6" height="12" relative="1" as="geometry">
+            <mxPoint x="-25" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-91" value="Item 4" style="text;strokeColor=inherit;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=12;" vertex="1" parent="qQep1dCscLVlMp010OV0-84">
+          <mxGeometry y="60" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-92" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#C4C4C4;strokeWidth=3;" vertex="1" parent="qQep1dCscLVlMp010OV0-91">
+          <mxGeometry x="1" y="0.5" width="6" height="12" relative="1" as="geometry">
+            <mxPoint x="-25" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
