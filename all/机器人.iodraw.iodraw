@@ -37,6 +37,9 @@
         <mxCell id="qQep1dCscLVlMp010OV0-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;底盘驱动&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qQep1dCscLVlMp010OV0-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
