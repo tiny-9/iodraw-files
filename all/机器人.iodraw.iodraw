@@ -52,7 +52,7 @@
         <mxCell id="qQep1dCscLVlMp010OV0-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;接受激光雷达点云数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="530" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订阅IMU话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qQep1dCscLVlMp010OV0-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订阅激光雷达话题&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="710" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
