@@ -175,7 +175,7 @@
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQep1dCscLVlMp010OV0-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CCSS-YOLO&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;目标检测&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="qQep1dCscLVlMp010OV0-65" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;CCSS-YOLO&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;目标检测&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-67" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;fontFamily=宋体;" edge="1" parent="1">
