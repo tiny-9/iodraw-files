@@ -202,7 +202,7 @@
             <mxPoint x="11" y="2.2590000000000146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-66" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="x5QEphP6Reic_egN8NoS-66" value="" style="group;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="595" y="229" width="15" height="31" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-67" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="x5QEphP6Reic_egN8NoS-66">
