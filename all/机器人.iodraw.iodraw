@@ -38,7 +38,7 @@
           <mxGeometry x="530" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;IMU&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="372.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQep1dCscLVlMp010OV0-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;IMU接收数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="570" width="130" height="60" as="geometry" />
