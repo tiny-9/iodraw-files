@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="x5QEphP6Reic_egN8NoS-81" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="739.38" y="335.6" width="136.25" height="134.4" as="geometry" />
+          <mxGeometry x="742.1899999999999" y="340" width="130.62" height="130" as="geometry" />
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-37" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="564" y="420" width="36" height="50" as="geometry" />
@@ -94,10 +94,10 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-32" value="&lt;font&gt;运动方向&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="610" y="400" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.31;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="x5QEphP6Reic_egN8NoS-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635.2" y="411.05" as="sourcePoint" />
-            <mxPoint x="810" y="315.49" as="targetPoint" />
+            <mxPoint x="750" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.466;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
