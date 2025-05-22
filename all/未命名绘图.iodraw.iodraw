@@ -31,8 +31,8 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=60;direction=east;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="520" width="26" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-15" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=60;direction=east;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="520" width="26" height="10" as="geometry" />
+        <mxCell id="x5QEphP6Reic_egN8NoS-15" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=120;direction=east;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="520" width="26" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
