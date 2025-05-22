@@ -55,9 +55,6 @@
         <mxCell id="x5QEphP6Reic_egN8NoS-21" value="左轮轨迹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="338.27" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5QEphP6Reic_egN8NoS-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="505.75" y="388.75" width="13" height="122.5" as="geometry" />
-        </mxCell>
         <mxCell id="x5QEphP6Reic_egN8NoS-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="440" width="122" height="20" as="geometry" />
         </mxCell>
