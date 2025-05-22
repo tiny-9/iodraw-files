@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-aWazLUXekewyrhui-cZ-1" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;需求分析与场景定义&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="100" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-aWazLUXekewyrhui-cZ-2" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;系统总体结构设计&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="150" height="60" as="geometry" />
@@ -15,6 +15,9 @@
             <mxPoint x="420" y="289.5" as="sourcePoint" />
             <mxPoint x="480" y="289.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-aWazLUXekewyrhui-cZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
