@@ -31,7 +31,7 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-8" value="局部路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-10" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="310" as="sourcePoint" />
             <mxPoint x="620" y="250" as="targetPoint" />
