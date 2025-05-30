@@ -88,6 +88,12 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-25" value="订阅移动控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-42" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="490" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-22" value="定位层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="60" height="30" as="geometry" />
         </mxCell>
@@ -158,12 +164,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="50" as="sourcePoint" />
             <mxPoint as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="730" as="sourcePoint" />
-            <mxPoint x="630" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
