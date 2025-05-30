@@ -61,6 +61,12 @@
             <mxPoint x="110" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-51" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="319.64" as="sourcePoint" />
+            <mxPoint x="110" y="319.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="69.70999999999998" as="sourcePoint" />
@@ -196,10 +202,10 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-49" value="订阅深度相机话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-51" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="450" as="sourcePoint" />
-            <mxPoint x="640" y="450" as="targetPoint" />
+            <mxPoint x="820" y="510" as="sourcePoint" />
+            <mxPoint x="870" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
