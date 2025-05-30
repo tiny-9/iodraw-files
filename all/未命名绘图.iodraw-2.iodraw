@@ -28,6 +28,9 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-8" value="局部路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
