@@ -101,7 +101,7 @@
           <mxGeometry x="880" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-29" value="底盘驱动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
