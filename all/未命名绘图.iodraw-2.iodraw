@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="160" width="580" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="190" width="560" height="450" as="geometry" />
+          <mxGeometry x="310" y="190" width="560" height="470" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="-10" y="220" width="120" height="110" as="geometry" />
@@ -85,11 +85,14 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-1" value="ROS控制器(树莓派5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="180" y="220" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-25" value="订阅移动控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-22" value="定位层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-25" value="订阅移动控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-26" value="订阅移动控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
