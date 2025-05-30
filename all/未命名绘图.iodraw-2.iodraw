@@ -43,6 +43,9 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-6" value="SLAM建图" style="whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-11">
           <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-19" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-11">
+          <mxGeometry x="-250" y="-40" width="580" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="69.70999999999998" as="sourcePoint" />
@@ -75,9 +78,6 @@
             <mxPoint x="140" y="280" as="sourcePoint" />
             <mxPoint x="90" y="279.73" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="200" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
