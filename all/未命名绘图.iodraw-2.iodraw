@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="409" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="sourcePoint" />
             <mxPoint x="540" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -219,6 +219,12 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-49" value="订阅深度相机话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910.7142857142858" y="679.75" as="sourcePoint" />
+            <mxPoint x="850" y="679.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
