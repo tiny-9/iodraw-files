@@ -19,7 +19,7 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-5" value="AMLC定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-6" value="SLAM建图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
