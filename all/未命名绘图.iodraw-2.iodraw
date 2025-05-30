@@ -97,8 +97,11 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-27" value="发布电机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-28" value="发布电机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-28" value="发布舵机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
