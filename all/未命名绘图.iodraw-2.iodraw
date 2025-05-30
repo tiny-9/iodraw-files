@@ -17,10 +17,10 @@
           <mxGeometry x="530" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-7" value="全局路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-8" value="局部路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-10" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="500" y="80" width="270" height="120" as="geometry" />
+          <mxGeometry x="510" y="220" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-11">
           <mxGeometry x="80" width="110" height="120" as="geometry" />
