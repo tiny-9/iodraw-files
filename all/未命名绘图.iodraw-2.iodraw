@@ -106,7 +106,7 @@
             <mxPoint x="120" y="109.86000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-16" value="CCFM-YOLO目标检测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;CCFM-YOLO&lt;/font&gt;目标检测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="10" y="250" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-20" value="" style="endArrow=block;html=1;rounded=0;endFill=1;fontFamily=宋体;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
