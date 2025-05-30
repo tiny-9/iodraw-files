@@ -10,6 +10,9 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="310" y="190" width="560" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+          <mxGeometry x="-10" y="220" width="120" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="140" y="180" width="220" height="200" as="geometry" />
         </mxCell>
@@ -79,11 +82,11 @@
             <mxPoint x="90" y="279.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-24" value="目标检测层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+          <mxGeometry x="10" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-22" value="定位层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
