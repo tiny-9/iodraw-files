@@ -244,7 +244,7 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-60" value="接收激光雷达点云数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-61" value="订阅激光雷达话题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-61" value="接收深度相机点云数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-62" value="接收里程计数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-66" value="轮式里程计" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="400" as="sourcePoint" />
+            <mxPoint x="1180" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
