@@ -95,13 +95,13 @@
           <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-27" value="发布电机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-28" value="发布舵机控制话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-29" value="底盘驱动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
