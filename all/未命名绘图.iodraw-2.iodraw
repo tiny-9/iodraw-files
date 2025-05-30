@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="6sWjTr6vk7pw8U_PhbeH">
-    <mxGraphModel dx="636" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-50" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="sourcePoint" />
             <mxPoint x="110" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -195,6 +195,12 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-49" value="订阅深度相机话题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-51" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="450" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
