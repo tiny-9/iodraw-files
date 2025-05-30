@@ -7,6 +7,9 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="310" y="190" width="560" height="450" as="geometry" />
         </mxCell>
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-19" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+          <mxGeometry x="-50" y="-20" width="580" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="140" y="180" width="220" height="200" as="geometry" />
         </mxCell>
@@ -42,9 +45,6 @@
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-6" value="SLAM建图" style="whiteSpace=wrap;html=1;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-11">
           <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-19" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-11">
-          <mxGeometry x="-250" y="-40" width="580" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
