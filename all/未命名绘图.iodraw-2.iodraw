@@ -220,7 +220,7 @@
             <mxPoint x="559.79" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-45" value="驱动层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-45" value="&lt;b&gt;驱动层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="530" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-46" value="订阅里程计话题" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -313,7 +313,7 @@
             <mxPoint x="1180" y="679.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-76" value="感知层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-76" value="&lt;b&gt;感知层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1090" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
