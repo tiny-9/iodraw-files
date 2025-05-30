@@ -118,7 +118,7 @@
         <mxCell id="HPgYZg7_V0FfnuegMXtr-24" value="目标检测层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="10" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HPgYZg7_V0FfnuegMXtr-1" value="ROS控制器(树莓派5)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
+        <mxCell id="HPgYZg7_V0FfnuegMXtr-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;ROS&lt;/font&gt;控制器(树莓派&lt;font face=&quot;Times New Roman&quot;&gt;5&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
           <mxGeometry x="180" y="220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HPgYZg7_V0FfnuegMXtr-25" value="订阅移动控制话题" style="whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="HPgYZg7_V0FfnuegMXtr-21">
