@@ -28,7 +28,7 @@
             <mxPoint x="390" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugQ2Ce8-wLYXkTpeupUc-2" value="误检" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ugQ2Ce8-wLYXkTpeupUc-2" value="&lt;font color=&quot;#ff3333&quot;&gt;误检&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95" y="748" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
