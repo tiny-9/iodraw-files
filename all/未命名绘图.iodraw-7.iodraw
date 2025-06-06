@@ -22,7 +22,7 @@
         <mxCell id="RFn6-wQ7SHRNTsAnAYCl-6" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;(c)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="810" y="1210" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ugQ2Ce8-wLYXkTpeupUc-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ugQ2Ce8-wLYXkTpeupUc-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="780" as="sourcePoint" />
             <mxPoint x="390" y="800" as="targetPoint" />
