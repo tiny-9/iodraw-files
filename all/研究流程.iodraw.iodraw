@@ -13,7 +13,7 @@
         <mxCell id="-aWazLUXekewyrhui-cZ-5" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;关键技术攻关&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="635" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-aWazLUXekewyrhui-cZ-6" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;测试验证与优化&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="-aWazLUXekewyrhui-cZ-6" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;测试验证与优化&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="635" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-aWazLUXekewyrhui-cZ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=宋体;" parent="1" edge="1">
@@ -22,7 +22,7 @@
             <mxPoint x="410" y="669.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aWazLUXekewyrhui-cZ-9" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;分析与总结&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="-aWazLUXekewyrhui-cZ-9" value="&lt;h3 style=&quot;font-size: 18.288px; line-height: 1.5; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;分析与总结&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;align=center;" parent="1" vertex="1">
           <mxGeometry x="870" y="635" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-aWazLUXekewyrhui-cZ-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=宋体;" parent="1" edge="1">
