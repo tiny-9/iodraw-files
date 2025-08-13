@@ -743,19 +743,10 @@
           <mxGeometry x="2297.5" y="1370" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-355" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2530" y="1380" width="322" height="60" as="geometry" />
+          <mxGeometry x="2530" y="1380" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-356" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-355">
-          <mxGeometry width="310.074074074074" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-357" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;19&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=6;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-355">
-          <mxGeometry x="255.00444444444437" y="5" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-358" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FT2pHVhiaI3yKn8jMIgX-355">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="271.3148148148149" y="60" as="sourcePoint" />
-            <mxPoint x="271.3148148148149" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry width="192.59259259259255" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
