@@ -166,6 +166,21 @@
             <mxPoint x="271.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-71" value="" style="group;glass=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="1760" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-72" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;RGA&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF00FF;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;fontColor=#ffffff;gradientColor=#FF66B3;gradientDirection=west;shadow=1;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-71">
+          <mxGeometry width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-73" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-71">
+          <mxGeometry x="271.25" y="15" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="FT2pHVhiaI3yKn8jMIgX-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.25" y="80" as="sourcePoint" />
+            <mxPoint x="271.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
