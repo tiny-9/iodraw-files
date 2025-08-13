@@ -740,7 +740,7 @@
           <mxGeometry x="2040" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-354" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DCBottleneck&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="2340" y="1360" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
