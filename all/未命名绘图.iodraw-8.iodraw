@@ -743,10 +743,10 @@
           <mxGeometry x="2297.5" y="1370" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-355" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2530" y="1380" width="200" height="60" as="geometry" />
+          <mxGeometry x="2530" y="1380" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-356" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-355">
-          <mxGeometry width="192.59259259259255" height="60" as="geometry" />
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-356" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-355">
+          <mxGeometry width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
