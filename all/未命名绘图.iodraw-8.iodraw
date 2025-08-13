@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sxMWmTJ7P1WYc3icp0AE-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 29px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;ConvModule&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;gBkroKv3k00__Y_7JOoJ&quot; style=&quot;font-size: 20px;&quot;&gt;k=3, s=2&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;align=left;" parent="1" vertex="1">
-          <mxGeometry x="470" y="220" width="360" height="80" as="geometry" />
+        <mxCell id="sxMWmTJ7P1WYc3icp0AE-2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 29px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;&lt;font face=&quot;Mwucaso_-EGYM5k89UBq&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="220" y="160" width="360" height="190" as="geometry" />
         </mxCell>
         <mxCell id="sxMWmTJ7P1WYc3icp0AE-3" value="&lt;font style=&quot;font-size: 29px;&quot; face=&quot;Times New Roman&quot;&gt;C3k2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
