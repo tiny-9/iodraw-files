@@ -701,10 +701,10 @@
           <mxGeometry x="2934.73" y="622.5" width="665.27" height="370" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-336" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="560" width="500" height="290" as="geometry" />
+          <mxGeometry x="3017.93" y="570" width="500" height="290" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-335" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3120.0000000000005" y="470" width="295.86" height="200" as="geometry" />
+          <mxGeometry x="3120" y="515" width="300" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
