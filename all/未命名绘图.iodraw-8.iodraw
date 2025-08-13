@@ -34,8 +34,8 @@
         <mxCell id="sxMWmTJ7P1WYc3icp0AE-11" value="&lt;font style=&quot;font-size: 29px;&quot; face=&quot;Times New Roman&quot;&gt;C3k2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 19px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="180" width="30" height="40" as="geometry" />
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="170" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
