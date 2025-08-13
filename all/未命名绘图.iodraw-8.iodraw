@@ -602,13 +602,13 @@
           <mxGeometry x="1110" y="1400" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-270" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="677.5" y="830" width="1040" height="580" as="geometry" />
+          <mxGeometry x="685" y="870" width="1040" height="580" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-265" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
           <mxGeometry width="1039.9999999999998" height="579.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-266" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
-          <mxGeometry x="125.84" y="-80" width="774.16" height="447.74" as="geometry" />
+          <mxGeometry x="132.5" y="-80" width="767.5" height="447.74" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-267" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
           <mxGeometry x="204.50000000000003" y="-150" width="618.1" height="375.48" as="geometry" />
