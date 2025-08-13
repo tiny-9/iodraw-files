@@ -613,7 +613,7 @@
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-269" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
           <mxGeometry x="383.27586206896564" width="273.4482758620689" height="187.09677419354836" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-271" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;R&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-271" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;R&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC00CC;" vertex="1" parent="1">
           <mxGeometry x="1940" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
