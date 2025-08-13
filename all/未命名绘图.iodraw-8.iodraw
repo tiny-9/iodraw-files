@@ -43,6 +43,17 @@
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-4" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-2">
           <mxGeometry x="50" y="5" width="45" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-5" value="Composite State" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="750" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-6" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-5">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="FT2pHVhiaI3yKn8jMIgX-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
