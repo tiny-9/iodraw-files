@@ -596,10 +596,10 @@
           <mxGeometry x="520" y="1410" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-265" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1100" width="370" height="230" as="geometry" />
+          <mxGeometry x="990" y="1100" width="490" height="270" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-266" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1100" width="250" height="150" as="geometry" />
+          <mxGeometry x="1110" y="1100" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
