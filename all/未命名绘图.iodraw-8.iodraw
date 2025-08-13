@@ -688,6 +688,9 @@
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-330" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="2490" y="705" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-331" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;gradientColor=none;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="640" width="35" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
