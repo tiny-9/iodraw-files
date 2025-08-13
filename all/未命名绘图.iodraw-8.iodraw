@@ -596,7 +596,7 @@
           <mxGeometry x="1110" y="1400" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-270" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="905.63" y="930" width="814.37" height="420" as="geometry" />
+          <mxGeometry x="780" y="850" width="814.37" height="420" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-265" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
           <mxGeometry width="814.3699999999998" height="419.99999999999994" as="geometry" />
