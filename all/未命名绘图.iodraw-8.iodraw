@@ -658,9 +658,6 @@
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-306" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;gradientColor=none;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="2090" y="685" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-307" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#FF8000;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="800" width="55" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-308" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;gradientColor=none;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="2090" y="800" width="55" height="55" as="geometry" />
         </mxCell>
@@ -668,7 +665,10 @@
           <mxGeometry x="2470.63" y="715" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-310" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="580" width="55" height="55" as="geometry" />
+          <mxGeometry x="1960" y="685" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-311" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="800" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
