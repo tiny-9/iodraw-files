@@ -428,7 +428,7 @@
           <mxGeometry width="245.05928853754946" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-198" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Bbox&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Loss&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="750" width="100" height="60" as="geometry" />
+          <mxGeometry x="3050" y="745" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
