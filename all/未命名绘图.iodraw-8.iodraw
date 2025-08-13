@@ -235,7 +235,7 @@
             <mxPoint x="271.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-96" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-96" value="" style="group;spacingRight=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1085" y="1480" width="285.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-97" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;b&gt;Concat&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-96">
