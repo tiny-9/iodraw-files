@@ -765,18 +765,6 @@
             <mxPoint x="1222" y="187.48000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-231" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="GVx1kBLQBj0lFui4nJ93-139" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1255" y="77" as="sourcePoint" />
-            <mxPoint x="1320" y="77" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-232" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="GVx1kBLQBj0lFui4nJ93-139" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1248.53" y="187" as="sourcePoint" />
-            <mxPoint x="1321" y="187" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-233" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="GVx1kBLQBj0lFui4nJ93-139" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1706" y="77.29999999999995" as="sourcePoint" />
@@ -1008,9 +996,6 @@
         <mxCell id="GVx1kBLQBj0lFui4nJ93-321" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33FF33;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="2120" y="775.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-322" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="2038.5000000000002" y="840.5" width="35" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-323" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="1940.0000000000002" y="840.5" width="35" height="35" as="geometry" />
         </mxCell>
@@ -1025,12 +1010,6 @@
         </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-327" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="2200" y="840.5" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-328" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="2038.5000000000002" y="723" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-329" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="2038.5000000000002" y="955.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-330" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33FF33;gradientColor=none;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="2250" y="895.5" width="35" height="35" as="geometry" />
@@ -1670,12 +1649,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1205.27" y="770" as="sourcePoint" />
             <mxPoint x="1205.27" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-488" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1975" y="740.07" as="sourcePoint" />
-            <mxPoint x="2039" y="740.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-489" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="1" edge="1">
