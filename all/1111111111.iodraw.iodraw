@@ -1858,6 +1858,9 @@
             <mxPoint x="271.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0n298R49prV0vEeu-1Z-52" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;20&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="ej5rMGF3vXjrNwvc2GVn-9">
+          <mxGeometry x="260" y="15" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="ej5rMGF3vXjrNwvc2GVn-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2270" y="2432.5" width="314" height="80" as="geometry" />
         </mxCell>
