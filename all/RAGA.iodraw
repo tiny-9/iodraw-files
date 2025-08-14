@@ -601,6 +601,9 @@
         <mxCell id="MtL3NJb6SJasIEh8OBl6-212" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#990099;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1270" y="369" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MtL3NJb6SJasIEh8OBl6-214" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
