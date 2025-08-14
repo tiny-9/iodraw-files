@@ -123,14 +123,14 @@
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="600" as="sourcePoint" />
+            <mxPoint x="300" y="597" as="sourcePoint" />
             <mxPoint x="300" y="419.998048735119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="610" as="sourcePoint" />
-            <mxPoint x="310" y="429.998048735119" as="targetPoint" />
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="320" y="419.998048735119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
