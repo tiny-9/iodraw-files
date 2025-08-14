@@ -2284,8 +2284,8 @@
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-516" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 80px;&quot;&gt;&lt;b&gt;Neck&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1765" y="590" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-517" value="CSPDarknet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2025" y="438" width="90" height="30" as="geometry" />
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-517" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;CSPDarknet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="423" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
