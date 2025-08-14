@@ -619,7 +619,7 @@
         <mxCell id="MtL3NJb6SJasIEh8OBl6-217" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Spatial Attention&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="475" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MtL3NJb6SJasIEh8OBl6-218" value="&lt;font color=&quot;#990099&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MtL3NJb6SJasIEh8OBl6-218" value="&lt;font size=&quot;1&quot; color=&quot;#990099&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Conv&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1086" y="314" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
