@@ -346,8 +346,8 @@
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-22" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#990099;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1112.5" y="746.49" width="45" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-23" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#FF0000;strokeWidth=2;size=58;" vertex="1" parent="1">
-          <mxGeometry x="810" y="501.74" width="80" height="76.49" as="geometry" />
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-23" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#FF0000;strokeWidth=2;size=50;" vertex="1" parent="1">
+          <mxGeometry x="790" y="499.75" width="70" height="71.74" as="geometry" />
         </mxCell>
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-24" value="&lt;font color=&quot;#990099&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;R&lt;sub&gt;s&lt;/sub&gt;(6, :)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1086.5" y="792.49" width="60" height="30" as="geometry" />
