@@ -1273,10 +1273,10 @@
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-330" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="2470" y="830.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-332" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientDirection=east;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-332" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientDirection=east;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2380" y="830.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FT2pHVhiaI3yKn8jMIgX-333" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientDirection=east;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="FT2pHVhiaI3yKn8jMIgX-333" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientDirection=east;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2550" y="713" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-334" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC00CC;gradientColor=#9999FF;gradientDirection=east;" parent="1" vertex="1">
