@@ -1960,8 +1960,8 @@
             <mxPoint x="2636" y="3279.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-298" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#393C56;fillColor=#FF00FF;gradientColor=default;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="3520" width="120" height="60" as="geometry" />
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-298" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#393C56;fillColor=#FF00FF;gradientColor=#FF66B3;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="2922.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
