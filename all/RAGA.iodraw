@@ -61,7 +61,7 @@
         <mxCell id="MtL3NJb6SJasIEh8OBl6-16" value="9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420" y="284" width="60" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="MtL3NJb6SJasIEh8OBl6-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MtL3NJb6SJasIEh8OBl6-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Feature&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
