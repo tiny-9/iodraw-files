@@ -1944,8 +1944,8 @@
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-289" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2680" y="724" as="sourcePoint" />
-            <mxPoint x="3107" y="724.68" as="targetPoint" />
+            <mxPoint x="2676" y="725" as="sourcePoint" />
+            <mxPoint x="3107" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
