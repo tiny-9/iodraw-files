@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yLM1niiiD6S6hCB09LRL">
-    <mxGraphModel dx="1750" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -947,12 +947,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3601.06" y="486.7600000000002" as="sourcePoint" />
             <mxPoint x="3642.06" y="486.7600000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-237" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3461" y="417" as="sourcePoint" />
-            <mxPoint x="3461.0599999999995" y="486.7600000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-368" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Dilated Conv&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;d=2&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#000000;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#FF66FF;gradientDirection=east;" parent="FT2pHVhiaI3yKn8jMIgX-270" vertex="1">
