@@ -1048,9 +1048,9 @@
             <mxPoint x="2359.71" y="2680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-44" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1865" y="2930" as="sourcePoint" />
+            <mxPoint x="1915" y="3010" as="sourcePoint" />
             <mxPoint x="1915" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
