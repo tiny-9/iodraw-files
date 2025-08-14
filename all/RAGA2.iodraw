@@ -289,6 +289,12 @@
         <mxCell id="HzQkvjgqYLNpikjhUgko-56" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=20;strokeColor=#990099;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="G61xDI8yX5SWOyseMe-8-1" value="&lt;font color=&quot;#990099&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;R&lt;sub&gt;s&lt;/sub&gt;(6, :)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G61xDI8yX5SWOyseMe-8-2" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;R&lt;sub style=&quot;&quot;&gt;s&lt;/sub&gt;(: , 6)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="711" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
