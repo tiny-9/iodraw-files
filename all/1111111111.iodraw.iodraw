@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="O3zPvQjNFbiFTGXagidW">
-    <mxGraphModel dx="4200" dy="2676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1865,6 +1865,18 @@
           <mxGeometry x="271.25" y="15" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q0n298R49prV0vEeu-1Z-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Q0n298R49prV0vEeu-1Z-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.25" y="80" as="sourcePoint" />
+            <mxPoint x="271.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0n298R49prV0vEeu-1Z-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2280" y="2442.5" width="311.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0n298R49prV0vEeu-1Z-16" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 29px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;ConvModule&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;gBkroKv3k00__Y_7JOoJ&quot; style=&quot;font-size: 20px;&quot;&gt;k=3, s=2&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#02e7f7;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;fontColor=#ffffff;" vertex="1" parent="Q0n298R49prV0vEeu-1Z-15">
+          <mxGeometry width="310.00000000000006" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0n298R49prV0vEeu-1Z-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Q0n298R49prV0vEeu-1Z-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="271.25" y="80" as="sourcePoint" />
             <mxPoint x="271.25" as="targetPoint" />
