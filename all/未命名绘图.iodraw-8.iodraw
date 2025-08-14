@@ -1358,7 +1358,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-131" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Bottleneck&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;N=2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2323.1299999999997" y="2010" width="160" height="80" as="geometry" />
+          <mxGeometry x="2559.7" y="2000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-132" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="2039.52" as="sourcePoint" />
+            <mxPoint x="2294.17" y="2039.52" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
