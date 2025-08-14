@@ -410,7 +410,7 @@
           <mxGeometry y="100" width="189" height="21" as="geometry" />
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-197" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Affinity Matrix&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MtL3NJb6SJasIEh8OBl6-141">
-          <mxGeometry x="8.5" y="180.00195126488097" width="88" height="30" as="geometry" />
+          <mxGeometry x="-7" y="180" width="111.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-143" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;H × W&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
