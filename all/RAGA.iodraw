@@ -400,7 +400,7 @@
         <mxCell id="MtL3NJb6SJasIEh8OBl6-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=none;" vertex="1" parent="MtL3NJb6SJasIEh8OBl6-141">
           <mxGeometry x="42" y="40.00195126488097" width="21" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MtL3NJb6SJasIEh8OBl6-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="MtL3NJb6SJasIEh8OBl6-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CCCC00;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="21" height="20" as="geometry" />
         </mxCell>
       </root>
