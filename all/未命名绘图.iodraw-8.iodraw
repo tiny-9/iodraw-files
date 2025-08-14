@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-83" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1767" y="2600" width="316.25" height="80" as="geometry" />
+          <mxGeometry x="1793.75" y="2600" width="316.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT2pHVhiaI3yKn8jMIgX-84" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 29px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;ConvModule&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;gBkroKv3k00__Y_7JOoJ&quot; style=&quot;font-size: 20px;&quot;&gt;k=1, s=1&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFB570;strokeColor=#000000;labelBackgroundColor=none;labelBorderColor=none;align=left;glass=0;fontColor=#ffffff;" parent="FT2pHVhiaI3yKn8jMIgX-83" vertex="1">
           <mxGeometry width="310.00000000000006" height="80" as="geometry" />
@@ -1332,8 +1332,8 @@
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-44" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1922" y="2990" as="sourcePoint" />
-            <mxPoint x="1921.94" y="2680" as="targetPoint" />
+            <mxPoint x="1946.97" y="2990" as="sourcePoint" />
+            <mxPoint x="1946.91" y="2680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-45" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
