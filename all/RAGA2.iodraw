@@ -307,7 +307,7 @@
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-9" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;reshape&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="543" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-10" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#0000FF;strokeWidth=2;size=50;" vertex="1" parent="1">
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-10" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#0000FF;strokeWidth=2;size=25;" vertex="1" parent="1">
           <mxGeometry x="620" y="430" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-11" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#000099;strokeWidth=2;" vertex="1" parent="1">
