@@ -1891,8 +1891,8 @@
             <mxPoint x="19.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-273" value="&lt;b style=&quot;color: rgb(255, 255, 255); text-align: left; text-wrap: wrap; background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 31px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#000000&quot;&gt;DCBottleNeck&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 31px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: gBkroKv3k00__Y_7JOoJ; text-wrap: wrap; font-size: 20px;&quot;&gt;k, s&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="4580" y="1450" width="220" height="90" as="geometry" />
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-273" value="&lt;b style=&quot;color: rgb(255, 255, 255); text-align: left; text-wrap: wrap; background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 31px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot; color=&quot;#000000&quot;&gt;BottleNeck&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 31px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: gBkroKv3k00__Y_7JOoJ; text-wrap: wrap; font-size: 20px;&quot;&gt;k, s&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="4606" y="1450" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
