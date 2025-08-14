@@ -2272,9 +2272,9 @@
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-510" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-511" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#F2CC8F;" edge="1" parent="1">
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-511" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=30;fontColor=default;fillColor=#F2CC8F;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="470" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="sourcePoint" />
             <mxPoint x="1640" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
