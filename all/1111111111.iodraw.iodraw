@@ -2278,8 +2278,8 @@
         <mxCell id="GVx1kBLQBj0lFui4nJ93-527" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Head&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3805" y="3590" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GVx1kBLQBj0lFui4nJ93-528" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;RAGA-YOLO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="639" y="615" width="520" height="110" as="geometry" />
+        <mxCell id="GVx1kBLQBj0lFui4nJ93-528" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;YOLOv11&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="714" y="615" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-529" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 80px;&quot;&gt;&lt;b&gt;Neck&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1775" y="600" width="200" height="110" as="geometry" />
