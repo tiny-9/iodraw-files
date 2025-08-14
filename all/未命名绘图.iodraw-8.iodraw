@@ -2161,8 +2161,8 @@
             <mxPoint x="2987.19" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-469" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-469" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;3&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b&gt;×&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="298" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
