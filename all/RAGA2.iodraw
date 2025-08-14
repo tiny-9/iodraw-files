@@ -403,8 +403,8 @@
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-56" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="985" y="530.49" width="165" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-59" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#990099;strokeWidth=2;size=110;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="600" width="130" height="130" as="geometry" />
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-59" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#990099;strokeWidth=2;size=120;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="610" width="137.5" height="136.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
