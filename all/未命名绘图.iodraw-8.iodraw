@@ -2261,7 +2261,10 @@
           <mxGeometry x="2890" y="2227.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-507" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="3718" width="360" height="110" as="geometry" />
+          <mxGeometry x="980" y="3560" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-508" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="990" y="3570" width="360" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
