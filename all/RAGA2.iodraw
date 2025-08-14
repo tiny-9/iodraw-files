@@ -407,7 +407,7 @@
           <mxGeometry x="1137.5" y="656.49" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-41" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#FFFF00;strokeWidth=2;size=50;" vertex="1" parent="1">
-          <mxGeometry x="770" y="516.49" width="70" height="71.74" as="geometry" />
+          <mxGeometry x="650" y="600" width="70" height="71.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
