@@ -406,8 +406,8 @@
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-73" value="&lt;font color=&quot;#990099&quot; size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;conv&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-74" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;1×1&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="315" width="60" height="30" as="geometry" />
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-74" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;1&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
