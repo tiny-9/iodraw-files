@@ -1316,7 +1316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-419" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#02E7F7;container=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
-          <mxGeometry x="3101" y="690" width="199" height="470" as="geometry" />
+          <mxGeometry x="3101" y="690" width="219" height="470" as="geometry" />
         </mxCell>
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-269" value="&lt;b style=&quot;color: rgb(255, 255, 255); text-align: left; text-wrap: wrap; background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; color=&quot;#000000&quot;&gt;ConvModule&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;container=0;" vertex="1" parent="FT2pHVhiaI3yKn8jMIgX-270">
           <mxGeometry x="3091" y="690" width="220" height="60" as="geometry" />
