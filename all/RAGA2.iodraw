@@ -370,13 +370,13 @@
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-63" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;size=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1290" y="465.62" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;strokeColor=#990099;" edge="1" parent="1">
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;strokeColor=#990099;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="499.37" as="sourcePoint" />
             <mxPoint x="1310" y="481.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="jaGxWWXAi3-ZB2AZZJk2-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;strokeColor=#990099;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="467.63" as="sourcePoint" />
             <mxPoint x="1340" y="417.63" as="targetPoint" />
