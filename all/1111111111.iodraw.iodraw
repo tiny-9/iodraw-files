@@ -478,11 +478,6 @@
             <mxPoint x="3492" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HrGOoicU--4JX1yxwg4-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GVx1kBLQBj0lFui4nJ93-249">
-          <mxGeometry x="0.9489" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-250" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;（3,&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;640, 640）&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="GVx1kBLQBj0lFui4nJ93-139" vertex="1">
           <mxGeometry x="526" y="767" width="220" height="50" as="geometry" />
         </mxCell>
@@ -1746,7 +1741,7 @@
         <mxCell id="GVx1kBLQBj0lFui4nJ93-493" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#F2CC8F;strokeWidth=6;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1757" y="2193" as="sourcePoint" />
-            <mxPoint x="4150" y="2193" as="targetPoint" />
+            <mxPoint x="4160" y="2193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GVx1kBLQBj0lFui4nJ93-494" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#F2CC8F;strokeWidth=6;dashed=1;" parent="1" edge="1">
