@@ -1978,8 +1978,8 @@
         <mxCell id="M4GJP5QG1r5f3bnJAvtx-420" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="4510" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M4GJP5QG1r5f3bnJAvtx-421" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="5300" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="M4GJP5QG1r5f3bnJAvtx-421" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fontColor=default;fillColor=#FFCCE6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FF99FF;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="4930" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
