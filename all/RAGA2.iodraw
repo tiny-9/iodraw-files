@@ -271,7 +271,7 @@
         <mxCell id="G61xDI8yX5SWOyseMe-8-1" value="&lt;font color=&quot;#990099&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;R&lt;sub&gt;s&lt;/sub&gt;(6, :)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382" y="601.74" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G61xDI8yX5SWOyseMe-8-2" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;R&lt;sub style=&quot;&quot;&gt;s&lt;/sub&gt;(: , 6)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="G61xDI8yX5SWOyseMe-8-2" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;R&lt;sub style=&quot;&quot;&gt;s&lt;/sub&gt;(: , 3)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="671.74" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jaGxWWXAi3-ZB2AZZJk2-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
