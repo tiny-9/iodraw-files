@@ -523,7 +523,7 @@
         <mxCell id="MtL3NJb6SJasIEh8OBl6-184" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;reshape&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MtL3NJb6SJasIEh8OBl6-185" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="MtL3NJb6SJasIEh8OBl6-185" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="710" y="374" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-186" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;fillColor=none;" vertex="1" parent="1">
@@ -578,7 +578,7 @@
           <mxGeometry x="759" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MtL3NJb6SJasIEh8OBl6-203" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=west;flipV=0;rotation=-90;size=4;" vertex="1" parent="1">
-          <mxGeometry x="720" y="207.51" width="120" height="122.49" as="geometry" />
+          <mxGeometry x="1010" y="431.51" width="120" height="122.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
