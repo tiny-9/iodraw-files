@@ -70,8 +70,8 @@
         <mxCell id="KaAkiOyE5tUsVN-mwTsI-29" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;fontFamily=Times New Roman;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="905" y="730.25" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KaAkiOyE5tUsVN-mwTsI-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;c&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="790" width="40" height="30" as="geometry" />
+        <mxCell id="KaAkiOyE5tUsVN-mwTsI-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;c&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="785" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaAkiOyE5tUsVN-mwTsI-31" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;c&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="935" y="758.25" width="40" height="30" as="geometry" />
