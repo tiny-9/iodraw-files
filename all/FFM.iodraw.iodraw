@@ -238,6 +238,12 @@
         <mxCell id="Jl4HosrNU2RimiFhvWcV-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="3266.93" y="923" width="57" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="Jl4HosrNU2RimiFhvWcV-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3200" y="970" as="sourcePoint" />
+            <mxPoint x="3250" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
