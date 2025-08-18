@@ -283,8 +283,8 @@
             <mxPoint x="4028" y="2862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxEbBDLtuU861Ngmh1U0-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4535" y="3038" width="50" height="30" as="geometry" />
+        <mxCell id="rxEbBDLtuU861Ngmh1U0-1" value="(a)YOLOv8 Head" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="3038" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
