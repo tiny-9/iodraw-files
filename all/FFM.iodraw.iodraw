@@ -289,7 +289,7 @@
         <mxCell id="7N4PfUEeO1r7UEXtvfpJ-11" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=18;rotation=90;fillColor=#d5e8d4;strokeColor=#000000;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="3127.68" y="840" width="58.32" height="22.38" as="geometry" />
         </mxCell>
-        <mxCell id="7N4PfUEeO1r7UEXtvfpJ-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=18;rotation=90;fillColor=none;strokeColor=#000000;fontFamily=Times New Roman;shadow=1;pointerEvents=0;align=center;verticalAlign=top;fontSize=12;fontColor=default;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="7N4PfUEeO1r7UEXtvfpJ-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=18;rotation=90;fillColor=#f0a30a;strokeColor=#000000;fontFamily=Times New Roman;shadow=1;pointerEvents=0;align=center;verticalAlign=middle;fontSize=12;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="3204" y="840" width="58.32" height="22.38" as="geometry" />
         </mxCell>
         <mxCell id="7N4PfUEeO1r7UEXtvfpJ-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=18;rotation=90;fillColor=#FF3399;strokeColor=#000000;fontFamily=Times New Roman;shadow=1;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" vertex="1" parent="1">
