@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DG7P61UUALKaPNsizY-z">
-    <mxGraphModel dx="-1385" dy="-971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="-1687" dy="-1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,7 +326,7 @@
           <mxGeometry x="4565" y="3015.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rxEbBDLtuU861Ngmh1U0-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;(b) YOLOv8 Classification detection&amp;nbsp;Head&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="3910" y="3450" width="370" height="40" as="geometry" />
+          <mxGeometry x="3903" y="3430" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
