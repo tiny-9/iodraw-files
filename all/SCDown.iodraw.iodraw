@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2W9DPtCgUttGzwyYBLyq-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(b) SCDown Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="520" y="540" width="180" height="40" as="geometry" />
+          <mxGeometry x="500" y="555" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2W9DPtCgUttGzwyYBLyq-18" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="290" width="100" height="100" as="geometry" />
