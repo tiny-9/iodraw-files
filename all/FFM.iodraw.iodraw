@@ -268,10 +268,10 @@
         <mxCell id="7N4PfUEeO1r7UEXtvfpJ-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=65;rotation=90;fillColor=#d5e8d4;strokeColor=#000000;fontFamily=Times New Roman;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="3360" y="560" width="190" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="7N4PfUEeO1r7UEXtvfpJ-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7N4PfUEeO1r7UEXtvfpJ-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3300" y="930" as="sourcePoint" />
-            <mxPoint x="3350" y="880" as="targetPoint" />
+            <mxPoint x="3140" y="885" as="sourcePoint" />
+            <mxPoint x="3178" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
