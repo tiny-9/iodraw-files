@@ -370,11 +370,11 @@
         <mxCell id="iPOc25QHsgkZ63MR3irO-36" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Bottleneck&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2464.63" y="308.30999999999995" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iPOc25QHsgkZ63MR3irO-37" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;(a) C3k2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2402.25" y="720" width="220" height="70" as="geometry" />
+        <mxCell id="iPOc25QHsgkZ63MR3irO-37" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(a) C3k2&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2412.25" y="720" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iPOc25QHsgkZ63MR3irO-38" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;(b) C3kDC_FFM&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3395" y="1199.5" width="390" height="70" as="geometry" />
+        <mxCell id="iPOc25QHsgkZ63MR3irO-38" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(b) C3kDC_FFM&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2359.63" y="1440" width="370" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
