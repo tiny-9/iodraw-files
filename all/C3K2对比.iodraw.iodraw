@@ -373,6 +373,9 @@
         <mxCell id="iPOc25QHsgkZ63MR3irO-37" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;(a) C3k2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3450" y="768" width="220" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="iPOc25QHsgkZ63MR3irO-38" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;(b) C3kDC_FFM&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3395" y="1199.5" width="390" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
