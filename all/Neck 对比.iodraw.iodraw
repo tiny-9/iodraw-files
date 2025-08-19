@@ -916,17 +916,11 @@
             <mxPoint x="3747" y="3012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uwz9mNlp0Ba-WeEkbPzh-12" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;exitX=0.031;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3580" y="3172.1" as="sourcePoint" />
-            <mxPoint x="3747" y="3172.1" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;(128, 40, 40)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3570" y="2960" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 30px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(256, 20, 20)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3580" y="3120" width="200" height="60" as="geometry" />
+          <mxGeometry x="3585" y="3100" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-15" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="3455" y="2812.5" width="130" height="40" as="geometry" />
@@ -936,6 +930,12 @@
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;YOLOv11-PAN-FPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3855" y="3550" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwz9mNlp0Ba-WeEkbPzh-21" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;exitX=0.031;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3530" y="3172.31" as="sourcePoint" />
+            <mxPoint x="3747" y="3172.31" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
