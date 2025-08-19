@@ -900,14 +900,8 @@
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-6" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;exitX=0.031;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3629.9999999999995" y="2240" as="sourcePoint" />
-            <mxPoint x="3801.42" y="2240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwz9mNlp0Ba-WeEkbPzh-7" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3606.83" y="3012.41" as="sourcePoint" />
-            <mxPoint x="3747" y="3011.91" as="targetPoint" />
+            <mxPoint x="3575.5799999999995" y="2342.22" as="sourcePoint" />
+            <mxPoint x="3747" y="2342.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;(128, 80, 80)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
