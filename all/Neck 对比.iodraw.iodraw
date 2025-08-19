@@ -912,8 +912,8 @@
         </mxCell>
         <mxCell id="uwz9mNlp0Ba-WeEkbPzh-11" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;exitX=0.031;exitY=1.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3580" y="3012.3100000000004" as="sourcePoint" />
-            <mxPoint x="3747" y="3012.3100000000004" as="targetPoint" />
+            <mxPoint x="3580" y="3010" as="sourcePoint" />
+            <mxPoint x="3747" y="3012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
