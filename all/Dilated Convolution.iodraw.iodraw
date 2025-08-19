@@ -61,6 +61,30 @@
             <mxPoint x="920" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y3uPMX167-GwUuMTvx0j-11" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+            <mxPoint x="919" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3uPMX167-GwUuMTvx0j-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="640" as="sourcePoint" />
+            <mxPoint x="920" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3uPMX167-GwUuMTvx0j-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="sourcePoint" />
+            <mxPoint x="919" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3uPMX167-GwUuMTvx0j-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="360" as="sourcePoint" />
+            <mxPoint x="1040" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
