@@ -172,10 +172,10 @@
             <mxPoint x="900" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtLu-Z6NP98z9pmOg92h-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-87" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="640" as="sourcePoint" />
-            <mxPoint x="840" y="590" as="targetPoint" />
+            <mxPoint x="840" y="630" as="sourcePoint" />
+            <mxPoint x="840" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
