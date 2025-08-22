@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="U2kmCsPR8SMqRHqDGhbD">
-    <mxGraphModel dx="600" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="350" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,8 +127,8 @@
         <mxCell id="wtLu-Z6NP98z9pmOg92h-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;strokeColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-56">
           <mxGeometry x="95.51" y="15" width="84.49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wtLu-Z6NP98z9pmOg92h-73" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;patches: 0.9&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-56">
-          <mxGeometry x="85.00000000000006" y="10" width="100" height="30" as="geometry" />
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-73" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;patches: 0.95&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-56">
+          <mxGeometry x="82.75000000000006" y="10" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
