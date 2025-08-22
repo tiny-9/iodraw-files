@@ -193,7 +193,7 @@
             <mxPoint x="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtLu-Z6NP98z9pmOg92h-90" value="t&lt;sub&gt;b&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-94">
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-90" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;t&lt;sub&gt;b&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-94">
           <mxGeometry x="22" y="12" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtLu-Z6NP98z9pmOg92h-91" value="t&lt;sub&gt;f&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-94">
