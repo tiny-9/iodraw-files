@@ -205,6 +205,45 @@
         <mxCell id="wtLu-Z6NP98z9pmOg92h-93" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-94">
           <mxGeometry x="99" y="5" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-95" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="500" width="129" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-96" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFD966;strokeColor=#FF9933;strokeWidth=4;" edge="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="10" as="sourcePoint" />
+            <mxPoint x="115" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-97" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="10" as="sourcePoint" />
+            <mxPoint x="75" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-98" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="19" as="sourcePoint" />
+            <mxPoint x="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-99" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="19" as="sourcePoint" />
+            <mxPoint x="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-100" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;t&lt;sub&gt;b&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry x="22" y="13" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-101" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;t&lt;sub&gt;f&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry x="61" y="13" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-102" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-103" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-95">
+          <mxGeometry x="99" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
