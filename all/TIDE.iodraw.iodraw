@@ -107,7 +107,7 @@
           <mxGeometry y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtLu-Z6NP98z9pmOg92h-61" value="" style="group" vertex="1" connectable="0" parent="wtLu-Z6NP98z9pmOg92h-60">
-          <mxGeometry x="8.108108108108109" width="111.8918918918919" height="30" as="geometry" />
+          <mxGeometry x="6" width="111.8918918918919" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtLu-Z6NP98z9pmOg92h-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-61">
           <mxGeometry x="6.5818759936407" y="5" width="78.98251192368839" height="20" as="geometry" />
