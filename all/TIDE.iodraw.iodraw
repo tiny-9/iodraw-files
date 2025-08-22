@@ -100,6 +100,9 @@
         <mxCell id="wtLu-Z6NP98z9pmOg92h-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=4;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-56">
           <mxGeometry x="14" y="36" width="166" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="wtLu-Z6NP98z9pmOg92h-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;strokeWidth=4;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-56">
+          <mxGeometry x="27.5" y="20" width="150" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="wtLu-Z6NP98z9pmOg92h-60" value="" style="group" vertex="1" connectable="0" parent="wtLu-Z6NP98z9pmOg92h-56">
           <mxGeometry y="150" width="120" height="30" as="geometry" />
         </mxCell>
@@ -120,9 +123,6 @@
         </mxCell>
         <mxCell id="wtLu-Z6NP98z9pmOg92h-66" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;patches&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="wtLu-Z6NP98z9pmOg92h-64">
           <mxGeometry x="-4.0606060606060606" y="-2" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wtLu-Z6NP98z9pmOg92h-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1197.5" y="310" width="150" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
