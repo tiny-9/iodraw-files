@@ -2258,7 +2258,7 @@
           <mxGeometry x="2900" y="2237.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5hvbZt3wUCtYtze54D5t-525" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1025.6200000000001" y="3490" width="360" height="110" as="geometry" />
+          <mxGeometry x="1028.13" y="3490" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5hvbZt3wUCtYtze54D5t-526" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 80px;&quot;&gt;Neck&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="2270.12" y="3580" width="200" height="110" as="geometry" />
