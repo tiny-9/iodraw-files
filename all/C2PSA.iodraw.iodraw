@@ -28,7 +28,7 @@
         <mxCell id="g2fAJ141z5yaQC-8pLI0-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=60;shadow=1;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580.88" y="130" width="110" height="100.29" as="geometry" />
         </mxCell>
-        <mxCell id="g2fAJ141z5yaQC-8pLI0-11" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=38;fillColor=#fff2cc;strokeColor=#000000;shadow=1;fontFamily=Times New Roman;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="g2fAJ141z5yaQC-8pLI0-11" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=38;fillColor=#dae8fc;strokeColor=#000000;shadow=1;fontFamily=Times New Roman;aspect=fixed;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="732.87" y="163.95" width="110.02" height="42.06" as="geometry" />
         </mxCell>
         <mxCell id="g2fAJ141z5yaQC-8pLI0-13" value="" style="group" vertex="1" connectable="0" parent="1">
