@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iCMnwCnvcJL_dy-h3x4--6" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;fontFamily=Times New Roman;shadow=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709" y="401" as="sourcePoint" />
-            <mxPoint x="758" y="411" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="g2fAJ141z5yaQC-8pLI0-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="647.13" y="80" width="271.15" height="170" as="geometry" />
         </mxCell>
