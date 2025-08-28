@@ -13,8 +13,8 @@
         <mxCell id="WPYjtYZZi7XQdsrfYEEr-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;(a) Box loss&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="550" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WPYjtYZZi7XQdsrfYEEr-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;(b) Classification_Loss&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="540" width="280" height="40" as="geometry" />
+        <mxCell id="WPYjtYZZi7XQdsrfYEEr-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;(b) Classification loss&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="540" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
