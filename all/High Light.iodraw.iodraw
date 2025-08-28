@@ -28,18 +28,6 @@
             <mxPoint x="1221" y="77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45ZQZ2gauGBAPmlDCjpM-227" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" parent="45ZQZ2gauGBAPmlDCjpM-139" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="769" y="187" as="sourcePoint" />
-            <mxPoint x="1222" y="187.48000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="45ZQZ2gauGBAPmlDCjpM-244" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#F2CC8F;strokeWidth=6;dashed=1;" parent="45ZQZ2gauGBAPmlDCjpM-139" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1031" y="2917" as="sourcePoint" />
-            <mxPoint x="1031" y="-173" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="45ZQZ2gauGBAPmlDCjpM-245" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#999999;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#F2CC8F;strokeWidth=6;dashed=1;" parent="45ZQZ2gauGBAPmlDCjpM-139" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2081" y="347" as="sourcePoint" />
