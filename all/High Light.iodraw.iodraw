@@ -694,6 +694,9 @@
             <mxPoint x="2829.5" y="-800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mF3dVUFNfGL9kk4cBrqF-297" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=140;rotation=90;flipV=1;direction=north;opacity=80;container=0;labelBorderColor=default;strokeWidth=2;gradientColor=#9999FF;fillColor=#CC00CC;" vertex="1" parent="1">
+          <mxGeometry x="2551.1600000000003" y="1327.02" width="468.55" height="155.96" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
