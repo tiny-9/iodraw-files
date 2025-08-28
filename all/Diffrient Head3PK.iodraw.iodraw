@@ -25,8 +25,8 @@
         <mxCell id="mkg0SPfDFLtcbClY6F4g-7" value="(a) YOLOv11-n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="178" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mkg0SPfDFLtcbClY6F4g-8" value="(a) YOLOv11-n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="320" width="100" height="30" as="geometry" />
+        <mxCell id="mkg0SPfDFLtcbClY6F4g-8" value="(b) RAGA-YOLO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="320" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
