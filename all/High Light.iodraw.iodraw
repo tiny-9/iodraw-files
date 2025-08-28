@@ -1051,9 +1051,6 @@
             <mxPoint x="1031" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45ZQZ2gauGBAPmlDCjpM-251" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FFFF;gradientColor=#00CC66;gradientDirection=east;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
-          <mxGeometry x="1431" y="357" width="2535.87" height="203" as="geometry" />
-        </mxCell>
         <mxCell id="45ZQZ2gauGBAPmlDCjpM-252" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;" edge="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1794.9299999999998" y="487" as="sourcePoint" />
