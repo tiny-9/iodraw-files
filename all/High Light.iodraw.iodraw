@@ -505,8 +505,8 @@
             <mxPoint x="74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mF3dVUFNfGL9kk4cBrqF-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=74;rotation=90;flipV=1;direction=north;opacity=80;container=0;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
-          <mxGeometry x="1470" y="769.5" width="224.43" height="304.02" as="geometry" />
+        <mxCell id="mF3dVUFNfGL9kk4cBrqF-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=74;rotation=90;flipV=1;direction=north;opacity=80;container=0;aspect=fixed;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
+          <mxGeometry x="1491.5" y="766.25" width="224.43" height="304.02" as="geometry" />
         </mxCell>
         <mxCell id="45ZQZ2gauGBAPmlDCjpM-337" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3730" y="690" width="290.3" height="80" as="geometry" />
