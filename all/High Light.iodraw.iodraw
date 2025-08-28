@@ -274,8 +274,8 @@
         <mxCell id="45ZQZ2gauGBAPmlDCjpM-545" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=27.455871582031364;rotation=135;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
           <mxGeometry x="1450" y="768.3" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="45ZQZ2gauGBAPmlDCjpM-546" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=35;rotation=90;flipV=1;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
-          <mxGeometry x="1640" y="480" width="125.47" height="247.62" as="geometry" />
+        <mxCell id="45ZQZ2gauGBAPmlDCjpM-546" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=35;rotation=90;flipV=1;direction=south;" vertex="1" parent="45ZQZ2gauGBAPmlDCjpM-139">
+          <mxGeometry x="1578.925" y="541.075" width="247.62" height="125.47" as="geometry" />
         </mxCell>
         <mxCell id="45ZQZ2gauGBAPmlDCjpM-337" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3730" y="690" width="290.3" height="80" as="geometry" />
