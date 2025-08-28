@@ -1054,6 +1054,9 @@
         <mxCell id="GZ0ECWuUWZvJCKtH4T5B-244" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Relation Feature&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="1336.49" width="114" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GZ0ECWuUWZvJCKtH4T5B-245" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;(a) RGA-S&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="728" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
