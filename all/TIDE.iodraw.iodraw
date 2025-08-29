@@ -250,8 +250,8 @@
         <mxCell id="l-NCUsQGYs918rAElLzl-16" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Loc&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="990" y="240" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1wOf17Y9kCIgqbDOC5Jo-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="1wOf17Y9kCIgqbDOC5Jo-1" value="TIDE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="375" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
