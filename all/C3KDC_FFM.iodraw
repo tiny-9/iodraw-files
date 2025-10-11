@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="B9hpasSsPVzcxlgXllwr">
-    <mxGraphModel dx="2625" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9dD4MvMelYRvk__1JwSK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=5;dashed=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="1570" width="126" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="9dD4MvMelYRvk__1JwSK-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=5;dashed=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4058" y="1569.99" width="126" height="250" as="geometry" />
         </mxCell>
@@ -15,9 +12,6 @@
         </mxCell>
         <mxCell id="9dD4MvMelYRvk__1JwSK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=5;dashed=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3581" y="1569.99" width="126" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="9dD4MvMelYRvk__1JwSK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=5;dashed=1;fontFamily=Times New Roman;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3253.99" y="1570" width="126" height="250" as="geometry" />
         </mxCell>
         <mxCell id="9dD4MvMelYRvk__1JwSK-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=74;rotation=90;flipV=1;direction=north;opacity=80;container=0;labelBorderColor=default;strokeWidth=2;aspect=fixed;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
           <mxGeometry x="2568.98" y="1649.99" width="220" height="90" as="geometry" />
