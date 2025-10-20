@@ -304,10 +304,10 @@
           <mxGeometry x="1108" y="2824.04" width="90.82" height="62.96" as="geometry" />
         </mxCell>
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-17" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="1153.48" y="2815.13" width="90.82" height="62.96" as="geometry" />
+          <mxGeometry x="1170" y="2852.96" width="90.82" height="62.96" as="geometry" />
         </mxCell>
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-18" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="2833" width="90.82" height="62.96" as="geometry" />
+          <mxGeometry x="1240" y="2887" width="90.82" height="62.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
