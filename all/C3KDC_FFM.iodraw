@@ -280,10 +280,10 @@
           <mxGeometry x="1020" y="2912.5" width="11" height="117" as="geometry" />
         </mxCell>
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="2958.97" width="129.82" height="90" as="geometry" />
+          <mxGeometry x="1082" y="2949" width="129.82" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-2" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="2968.97" width="129.82" height="90" as="geometry" />
+          <mxGeometry x="1097" y="2968.97" width="129.82" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
