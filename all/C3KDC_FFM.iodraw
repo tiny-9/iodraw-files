@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="B9hpasSsPVzcxlgXllwr">
-    <mxGraphModel dx="600" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="292" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,7 +255,7 @@
         <mxCell id="B5E6PbQmonC1j6WnPDph-17" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" parent="1" vertex="1">
           <mxGeometry x="850" y="2912" width="129.82" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="B5E6PbQmonC1j6WnPDph-11" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;spacingBottom=0;fontFamily=Times New Roman;shadow=1;" parent="1" edge="1" source="4RsDPEvbD9cBLPU1HT9h-20">
+        <mxCell id="B5E6PbQmonC1j6WnPDph-11" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;spacingBottom=0;fontFamily=Times New Roman;shadow=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="829.82" y="3026" as="sourcePoint" />
             <mxPoint x="930" y="3090" as="targetPoint" />
@@ -306,14 +306,8 @@
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-19" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="1158.82" y="3100" width="53" height="45.86" as="geometry" />
         </mxCell>
-        <mxCell id="4RsDPEvbD9cBLPU1HT9h-21" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;spacingBottom=0;fontFamily=Times New Roman;shadow=1;" edge="1" parent="1" target="4RsDPEvbD9cBLPU1HT9h-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="829.82" y="3026" as="sourcePoint" />
-            <mxPoint x="930" y="3090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4RsDPEvbD9cBLPU1HT9h-20" value="" style="line;strokeWidth=3;direction=south;html=1;rotation=124;" vertex="1" parent="1">
-          <mxGeometry x="890.1999999999999" y="3020" width="11" height="90" as="geometry" />
+          <mxGeometry x="850" y="3020" width="11" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
