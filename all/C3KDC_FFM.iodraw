@@ -246,7 +246,7 @@
             <mxPoint x="789.9999999999999" y="2996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5E6PbQmonC1j6WnPDph-15" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=60;" vertex="1" parent="1">
+        <mxCell id="B5E6PbQmonC1j6WnPDph-15" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=19.2710441436172;flipH=1;rotation=121;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="758.3199999999999" y="2936.0000000000005" width="129.82" height="146.69" as="geometry" />
         </mxCell>
       </root>
