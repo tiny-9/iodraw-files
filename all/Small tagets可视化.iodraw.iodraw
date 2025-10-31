@@ -61,6 +61,21 @@
         <mxCell id="J4m0GLYycHCCoB_d8M1q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="546" width="208" height="208" as="geometry" />
         </mxCell>
+        <mxCell id="J4m0GLYycHCCoB_d8M1q-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="407" y="322" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J4m0GLYycHCCoB_d8M1q-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="J4m0GLYycHCCoB_d8M1q-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268" y="306" as="sourcePoint" />
+            <mxPoint x="370" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4m0GLYycHCCoB_d8M1q-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=2;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J4m0GLYycHCCoB_d8M1q-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268" y="514" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
