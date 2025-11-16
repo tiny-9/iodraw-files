@@ -128,7 +128,7 @@
           <mxGeometry x="1570" y="470" width="47" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tja3olVS6yNofVDTUbb9-52" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=39;direction=east;flipV=0;flipH=1;fillColor=#DAE8FC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="570" width="47" height="110" as="geometry" />
+          <mxGeometry x="1130" y="570" width="47" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tja3olVS6yNofVDTUbb9-53" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=39;direction=east;flipV=0;flipH=1;fillColor=#FFB366;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="540" width="47" height="110" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="1240" y="470" width="47" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tja3olVS6yNofVDTUbb9-56" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=39;direction=east;flipV=0;flipH=1;fillColor=#D5E8D4;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1388" y="650" width="47" height="110" as="geometry" />
+          <mxGeometry x="1240" y="590" width="47" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
