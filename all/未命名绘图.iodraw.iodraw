@@ -22,10 +22,10 @@
         <mxCell id="Iva7uXMPloOJYPNydI4l-13" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;k=3, s=1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="416" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iva7uXMPloOJYPNydI4l-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Iva7uXMPloOJYPNydI4l-14" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="370" as="sourcePoint" />
-            <mxPoint x="490" y="320" as="targetPoint" />
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
