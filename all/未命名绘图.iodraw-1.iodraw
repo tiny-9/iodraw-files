@@ -52,10 +52,16 @@
         <mxCell id="tja3olVS6yNofVDTUbb9-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1260" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tja3olVS6yNofVDTUbb9-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tja3olVS6yNofVDTUbb9-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1220" y="1070" as="sourcePoint" />
-            <mxPoint x="1280" y="1070" as="targetPoint" />
+            <mxPoint x="1270" y="969.71" as="sourcePoint" />
+            <mxPoint x="1330" y="969.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tja3olVS6yNofVDTUbb9-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="979.71" as="sourcePoint" />
+            <mxPoint x="1340" y="979.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
