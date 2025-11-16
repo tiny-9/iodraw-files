@@ -100,6 +100,15 @@
         <mxCell id="Iva7uXMPloOJYPNydI4l-31" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;d=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="842" y="323" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Iva7uXMPloOJYPNydI4l-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="810" y="460.5" width="104" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iva7uXMPloOJYPNydI4l-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Dilated Conv&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="807" y="456.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iva7uXMPloOJYPNydI4l-34" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;d=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="842" y="473.5" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
