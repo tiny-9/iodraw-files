@@ -16,8 +16,8 @@
         <mxCell id="tja3olVS6yNofVDTUbb9-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=110;direction=east;flipV=0;flipH=1;fillColor=#9999FF;strokeColor=#000000;opacity=70;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="370" width="130" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="tja3olVS6yNofVDTUbb9-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=110;direction=east;flipV=0;flipH=1;fillColor=#9999FF;strokeColor=#000000;opacity=70;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="550" width="130" height="380" as="geometry" />
+        <mxCell id="tja3olVS6yNofVDTUbb9-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=110;direction=east;flipV=0;flipH=1;fillColor=#67AB9F;strokeColor=#000000;opacity=70;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="520" width="130" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
