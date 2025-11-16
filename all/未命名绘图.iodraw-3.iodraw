@@ -205,8 +205,8 @@
         <mxCell id="PqYvvxwAFakUw7FKDLBd-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;c&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1280" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PqYvvxwAFakUw7FKDLBd-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="1068" width="50" height="30" as="geometry" />
+        <mxCell id="PqYvvxwAFakUw7FKDLBd-53" value="(a) CBS Module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="1068" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
