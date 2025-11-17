@@ -72,19 +72,19 @@
         </mxCell>
         <mxCell id="_t4R3tdxA_TyWKP1LUy6-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="2090" as="sourcePoint" />
+            <mxPoint x="1010" y="2070" as="sourcePoint" />
             <mxPoint x="1143" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_t4R3tdxA_TyWKP1LUy6-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="2090" as="sourcePoint" />
-            <mxPoint x="1290" y="2180" as="targetPoint" />
+            <mxPoint x="1011" y="2070" as="sourcePoint" />
+            <mxPoint x="1311" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_t4R3tdxA_TyWKP1LUy6-20" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=5;endFill=1;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="2180" as="sourcePoint" />
+            <mxPoint x="1310" y="2160" as="sourcePoint" />
             <mxPoint x="1420" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
