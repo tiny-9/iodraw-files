@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrTyoPoUApQJij25-NPD-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;BN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1757" y="1780" width="50" height="40" as="geometry" />
+          <mxGeometry x="1756" y="1780" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PrTyoPoUApQJij25-NPD-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Conv2d&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1611" y="1782" width="90" height="40" as="geometry" />
