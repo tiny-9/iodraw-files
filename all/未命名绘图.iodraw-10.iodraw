@@ -146,13 +146,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PrTyoPoUApQJij25-NPD-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;BN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1785" y="1785.5" width="50" height="40" as="geometry" />
+          <mxGeometry x="1757" y="1780" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PrTyoPoUApQJij25-NPD-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Conv2d&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1616.5" y="1780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="04Q17HkVozekkw8z1687-2" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;SiLU&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1779" y="1684" width="80" height="40" as="geometry" />
+        <mxCell id="04Q17HkVozekkw8z1687-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;SiLU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1807" y="1660" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="04Q17HkVozekkw8z1687-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=32;direction=east;flipV=0;flipH=1;fillColor=#FF3333;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1581" y="1660" width="37" height="93" as="geometry" />
