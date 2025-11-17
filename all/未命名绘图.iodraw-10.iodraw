@@ -100,6 +100,15 @@
         <mxCell id="_t4R3tdxA_TyWKP1LUy6-24" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Output&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1760" y="2060" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_t4R3tdxA_TyWKP1LUy6-26" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=90;direction=east;flipV=0;flipH=1;fillColor=#D5E8D4;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1580" width="103" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_t4R3tdxA_TyWKP1LUy6-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=90;direction=east;flipV=0;flipH=1;fillColor=#DAE8FC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="1590" width="103" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_t4R3tdxA_TyWKP1LUy6-28" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=90;direction=east;flipV=0;flipH=1;fillColor=#67AB9F;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1503.5" y="1600" width="103" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
