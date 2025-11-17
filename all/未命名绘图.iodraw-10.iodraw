@@ -157,9 +157,6 @@
         <mxCell id="04Q17HkVozekkw8z1687-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=36;direction=east;flipV=0;flipH=1;fillColor=#DAE8FC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1743" y="1762.5" width="42" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="04Q17HkVozekkw8z1687-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=36;direction=east;flipV=0;flipH=1;fillColor=#FFF2CC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="1660" width="42" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="04Q17HkVozekkw8z1687-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=32;direction=east;flipV=0;flipH=1;fillColor=#FF3333;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1581" y="1660" width="37" height="93" as="geometry" />
         </mxCell>
@@ -171,6 +168,9 @@
         </mxCell>
         <mxCell id="04Q17HkVozekkw8z1687-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=32;direction=east;flipV=0;flipH=1;fillColor=#D5E8D4;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1581" y="1759" width="37" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="04Q17HkVozekkw8z1687-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=32;direction=east;flipV=0;flipH=1;fillColor=#FFF2CC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1600" width="37" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
