@@ -163,8 +163,8 @@
         <mxCell id="04Q17HkVozekkw8z1687-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=36;direction=east;flipV=0;flipH=1;fillColor=#FFF2CC;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1743" y="1660" width="42" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="04Q17HkVozekkw8z1687-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=36;direction=east;flipV=0;flipH=1;fillColor=#FF3333;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1581" y="1660" width="41" height="97" as="geometry" />
+        <mxCell id="04Q17HkVozekkw8z1687-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=32;direction=east;flipV=0;flipH=1;fillColor=#FF3333;strokeColor=#000000;opacity=70;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="1660" width="37" height="93" as="geometry" />
         </mxCell>
         <mxCell id="04Q17HkVozekkw8z1687-6" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Attention&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1617" y="1684" width="120" height="40" as="geometry" />
