@@ -630,8 +630,8 @@
         </mxCell>
         <mxCell id="VtwhPcE_8-ctvRJKby4N-43" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="VtwhPcE_8-ctvRJKby4N-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="19.799999999999955" as="sourcePoint" />
-            <mxPoint x="30.294840294840355" y="19.799999999999955" as="targetPoint" />
+            <mxPoint y="19.859999999999953" as="sourcePoint" />
+            <mxPoint x="30.294840294840355" y="19.859999999999953" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VtwhPcE_8-ctvRJKby4N-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;shadow=1;" vertex="1" parent="VtwhPcE_8-ctvRJKby4N-50">
