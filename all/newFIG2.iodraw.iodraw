@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="tLdcfcnzIOAyaN_Oacbj">
-    <mxGraphModel dx="2200" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,6 +624,36 @@
         </mxCell>
         <mxCell id="ix1DC3uVDTPokONKF_wf-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;k=1, s=1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="VtwhPcE_8-ctvRJKby4N-42" vertex="1">
           <mxGeometry y="15" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890.0046437346437" y="710" width="236.29975429975434" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-43" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="VtwhPcE_8-ctvRJKby4N-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="19.799999999999955" as="sourcePoint" />
+            <mxPoint x="30.294840294840355" y="19.799999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;shadow=1;" vertex="1" parent="VtwhPcE_8-ctvRJKby4N-50">
+          <mxGeometry x="165.6117936117937" width="70.6879606879607" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-45" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="VtwhPcE_8-ctvRJKby4N-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135.31695331695346" y="19.950000000000045" as="sourcePoint" />
+            <mxPoint x="165.6117936117937" y="19.950000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-46" value="" style="group" vertex="1" connectable="0" parent="VtwhPcE_8-ctvRJKby4N-50">
+          <mxGeometry x="27.26535626535633" width="111.0810810810811" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;shadow=1;" vertex="1" parent="VtwhPcE_8-ctvRJKby4N-46">
+          <mxGeometry x="3.0294840294840295" width="105.02211302211303" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;BatchNorm2d&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="VtwhPcE_8-ctvRJKby4N-46">
+          <mxGeometry y="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtwhPcE_8-ctvRJKby4N-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;GELU&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="VtwhPcE_8-ctvRJKby4N-50">
+          <mxGeometry x="165.6117936117937" y="5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
