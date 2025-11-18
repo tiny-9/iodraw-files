@@ -470,10 +470,10 @@
           <mxGeometry x="-112" y="723" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ix1DC3uVDTPokONKF_wf-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="113" y="720" width="104" height="40" as="geometry" />
+          <mxGeometry x="93" y="710" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ix1DC3uVDTPokONKF_wf-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;BatchNorm2d&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="725" width="110" height="30" as="geometry" />
+          <mxGeometry x="90" y="715" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ix1DC3uVDTPokONKF_wf-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;strokeColor=#000000;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-9" y="710" width="70" height="40" as="geometry" />
@@ -488,6 +488,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="729.8" as="sourcePoint" />
             <mxPoint x="-10" y="729.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FraU0LE45pXYSGpCT4AG-2" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61" y="729.8" as="sourcePoint" />
+            <mxPoint x="91" y="729.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
