@@ -255,9 +255,12 @@
         </mxCell>
         <mxCell id="K0-KEKy4DfP0DaoQHy0Q-14" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="540" as="sourcePoint" />
-            <mxPoint x="710" y="569.75" as="targetPoint" />
+            <mxPoint x="665" y="529.66" as="sourcePoint" />
+            <mxPoint x="695" y="529.66" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K0-KEKy4DfP0DaoQHy0Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K0-KEKy4DfP0DaoQHy0Q-4" target="xXzSNLkr8bjujo_U60I6-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
