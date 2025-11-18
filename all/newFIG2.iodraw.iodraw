@@ -460,6 +460,12 @@
             <mxPoint x="922.8" y="552.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ix1DC3uVDTPokONKF_wf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;strokeColor=#000000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="710" width="104" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ix1DC3uVDTPokONKF_wf-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;ConvModule&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
