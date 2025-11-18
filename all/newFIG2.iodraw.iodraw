@@ -497,12 +497,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VtwhPcE_8-ctvRJKby4N-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="710" width="70" height="40" as="geometry" />
+          <mxGeometry x="228" y="710" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VtwhPcE_8-ctvRJKby4N-2" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeWidth=2;shadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="700" as="sourcePoint" />
-            <mxPoint x="250" y="700" as="targetPoint" />
+            <mxPoint x="197" y="729.83" as="sourcePoint" />
+            <mxPoint x="227" y="729.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
