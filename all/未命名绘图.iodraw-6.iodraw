@@ -391,8 +391,11 @@
         <mxCell id="ngeOkBbLRBZ3MkvOCXOo-5" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=5;endFill=1;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2100" y="1064.83" as="sourcePoint" />
-            <mxPoint x="2160.24" y="1064.83" as="targetPoint" />
+            <mxPoint x="2180" y="1065" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ngeOkBbLRBZ3MkvOCXOo-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="1060" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
