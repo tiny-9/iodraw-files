@@ -421,7 +421,7 @@
         <mxCell id="ngeOkBbLRBZ3MkvOCXOo-15" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2440" y="840" width="50" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ngeOkBbLRBZ3MkvOCXOo-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;rotation=-180;" vertex="1" parent="ngeOkBbLRBZ3MkvOCXOo-15">
+        <mxCell id="ngeOkBbLRBZ3MkvOCXOo-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#000000;rotation=-180;" vertex="1" parent="ngeOkBbLRBZ3MkvOCXOo-15">
           <mxGeometry y="70" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ngeOkBbLRBZ3MkvOCXOo-14" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=5;endFill=1;fontFamily=Times New Roman;" edge="1" parent="ngeOkBbLRBZ3MkvOCXOo-15">
@@ -432,7 +432,7 @@
         </mxCell>
         <mxCell id="ngeOkBbLRBZ3MkvOCXOo-13" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=5;endFill=1;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2544.66" y="1070" as="sourcePoint" />
+            <mxPoint x="2545" y="1040" as="sourcePoint" />
             <mxPoint x="2544.66" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
