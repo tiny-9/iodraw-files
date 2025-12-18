@@ -85,6 +85,12 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-72" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;蓝牙&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1725" y="1460" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vdcpd74WcqfPVoPeZ2qP-73" target="Vdcpd74WcqfPVoPeZ2qP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-73" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;LoRaWAN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1460" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
