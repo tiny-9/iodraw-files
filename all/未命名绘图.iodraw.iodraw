@@ -38,7 +38,7 @@
           <mxGeometry x="420" y="264.6" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="977.9" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="1150" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-14" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
           <mxGeometry x="710" y="680" width="110" height="95" as="geometry" />
