@@ -64,6 +64,9 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-24" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
           <mxGeometry x="595" y="910" width="110" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-25" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon24;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1080" width="100" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
