@@ -41,19 +41,19 @@
           <mxGeometry x="970" y="1000" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-14" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
-          <mxGeometry x="740" y="410" width="110" height="95" as="geometry" />
+          <mxGeometry x="840" y="355" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-15" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-16" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon24;" vertex="1" parent="1">
-          <mxGeometry x="710" y="740" width="100" height="95" as="geometry" />
+          <mxGeometry x="700" y="470.00000000000006" width="100" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-18" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon24;" vertex="1" parent="1">
-          <mxGeometry x="710" y="940" width="100" height="95" as="geometry" />
+          <mxGeometry x="550" y="740" width="100" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-19" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1105" width="110" height="95" as="geometry" />
+          <mxGeometry x="570" y="882.5" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon30;" vertex="1" parent="1">
           <mxGeometry x="920" y="740" width="100" height="70" as="geometry" />
