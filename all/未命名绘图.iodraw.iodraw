@@ -20,7 +20,7 @@
           <mxGeometry x="910" y="190" width="55.800000000000004" height="39.6" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/media_converters/Media_Converter_Modular.svg;" vertex="1" parent="1">
-          <mxGeometry x="548.9" y="290" width="70.8" height="54.6" as="geometry" />
+          <mxGeometry x="429.9999999999999" y="514.6" width="70.8" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
           <mxGeometry x="775.75" y="400" width="88.2" height="114.6" as="geometry" />
