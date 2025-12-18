@@ -49,14 +49,8 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1120" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1570" y="920" width="181.8" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-58">
-          <mxGeometry width="181.80000000000004" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-60" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;应用层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-58">
-          <mxGeometry x="40.90000000000009" y="10" width="100" height="40" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-64" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1590" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-65" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon24;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1590" width="100" height="95" as="geometry" />
@@ -78,6 +72,9 @@
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-73" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;LoRaWAN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-75" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1635" y="928" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
