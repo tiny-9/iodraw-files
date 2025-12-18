@@ -64,6 +64,9 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
           <mxGeometry x="1420" y="720" width="105" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-23" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon26;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="540" width="50" height="40.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
