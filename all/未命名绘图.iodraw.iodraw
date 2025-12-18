@@ -76,20 +76,8 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="1150" y="830" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1150" y="920" as="sourcePoint" />
-            <mxPoint x="1310" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-35" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-36" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-34">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-37" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-34">
-          <mxGeometry x="1" relative="1" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-38" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="767.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
