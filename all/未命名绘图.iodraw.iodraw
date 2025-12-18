@@ -76,11 +76,23 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="1185" y="830" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1418.2" y="755" width="181.8" height="60" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1418.2" y="755" width="181.79999999999995" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-40" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;生产管理系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1424.1000000000001" y="765" width="170" height="40" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-51">
+          <mxGeometry width="181.8" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-40" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;生产管理系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-51">
+          <mxGeometry x="5.900000000000091" y="10" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1418.2" y="755" width="181.79999999999995" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-52">
+          <mxGeometry width="181.8" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-54" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;生产管理系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-52">
+          <mxGeometry x="5.900000000000091" y="10" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
