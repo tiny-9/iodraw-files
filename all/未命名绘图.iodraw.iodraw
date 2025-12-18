@@ -38,7 +38,7 @@
           <mxGeometry x="420" y="264.6" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1030" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-14" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
           <mxGeometry x="380" y="815" width="110" height="95" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="380" y="970" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon30;" vertex="1" parent="1">
-          <mxGeometry x="720" y="690" width="50" height="35.5" as="geometry" />
+          <mxGeometry x="877.9" y="960" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
