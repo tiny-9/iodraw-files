@@ -26,7 +26,7 @@
           <mxGeometry x="775.75" y="400" width="88.2" height="114.6" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_services;" vertex="1" parent="1">
-          <mxGeometry x="624" y="370" width="76" height="90" as="geometry" />
+          <mxGeometry x="1300" y="790" width="76" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-10" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="1">
           <mxGeometry x="897.9" y="264.6" width="80" height="80" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="420" y="264.6" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1320" y="885" width="80" height="150" as="geometry" />
+          <mxGeometry x="970" y="1000" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-14" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
           <mxGeometry x="800" y="550" width="110" height="95" as="geometry" />
