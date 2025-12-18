@@ -23,7 +23,7 @@
           <mxGeometry x="429.9999999999999" y="514.6" width="70.8" height="54.6" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="775.75" y="400" width="88.2" height="114.6" as="geometry" />
+          <mxGeometry x="1140" y="247.3" width="88.2" height="114.6" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_services;" vertex="1" parent="1">
           <mxGeometry x="1410" y="510" width="76" height="90" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="970" y="1000" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-14" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" vertex="1" parent="1">
-          <mxGeometry x="800" y="550" width="110" height="95" as="geometry" />
+          <mxGeometry x="740" y="410" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-15" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
           <mxGeometry x="500" y="110" width="80" height="80" as="geometry" />
