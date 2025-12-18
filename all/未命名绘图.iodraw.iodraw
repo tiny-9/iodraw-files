@@ -28,6 +28,9 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.globe;" vertex="1" parent="1">
           <mxGeometry x="775.75" y="106" width="78.5" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_services;" vertex="1" parent="1">
+          <mxGeometry x="624" y="370" width="76" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
