@@ -11,7 +11,7 @@
           <mxGeometry x="1813" y="1196.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-11" value="" style="image;html=1;image=img/lib/clip_art/general/Bluetooth_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1725" y="1378" width="80" height="80" as="geometry" />
+          <mxGeometry x="1760" y="1378" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1900" y="1330" width="80" height="150" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1540" y="1468" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-72" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;蓝牙&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1468" width="70" height="40" as="geometry" />
+          <mxGeometry x="1765" y="1468" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-73" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;LoRaWAN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1468" width="120" height="40" as="geometry" />
