@@ -82,8 +82,8 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-58">
           <mxGeometry width="181.80000000000004" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-60" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;预测维护系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-58">
-          <mxGeometry x="5.900000000000092" y="10" width="170" height="40" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-60" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;应用层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Vdcpd74WcqfPVoPeZ2qP-58">
+          <mxGeometry x="40.90000000000009" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-61" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1690" y="830" width="190.9000000000001" height="60" as="geometry" />
