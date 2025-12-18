@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="160" width="29.7" height="21" as="geometry" />
+          <mxGeometry x="700" y="700" width="29.7" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" vertex="1" parent="1">
           <mxGeometry x="800" y="30" width="30" height="30" as="geometry" />
