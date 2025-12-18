@@ -76,8 +76,8 @@
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-28" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;" vertex="1" parent="1">
           <mxGeometry x="1150" y="830" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-38" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="767.5" width="120" height="80" as="geometry" />
+        <mxCell id="Vdcpd74WcqfPVoPeZ2qP-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1418.2" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
