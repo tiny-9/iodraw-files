@@ -169,16 +169,16 @@
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;决策&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2030" y="900" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UL4q3HKPL_MgyX-ozPFU-9" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2230" y="1194" as="sourcePoint" />
-            <mxPoint x="2230" y="1110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-10" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2228" y="1365" as="sourcePoint" />
+            <mxPoint x="2228" y="1360" as="sourcePoint" />
             <mxPoint x="2228" y="1545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UL4q3HKPL_MgyX-ozPFU-11" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="1180" as="sourcePoint" />
+            <mxPoint x="2230" y="1365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
