@@ -142,10 +142,10 @@
             <mxPoint x="1771" y="796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UL4q3HKPL_MgyX-ozPFU-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;感知&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UL4q3HKPL_MgyX-ozPFU-2" value="&lt;font color=&quot;#ff3333&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;感知&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2315" y="1620" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UL4q3HKPL_MgyX-ozPFU-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;传输&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UL4q3HKPL_MgyX-ozPFU-3" value="&lt;font color=&quot;#ff3333&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;传输&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2180" y="1296" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
