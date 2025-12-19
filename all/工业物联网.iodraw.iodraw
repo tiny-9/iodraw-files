@@ -151,7 +151,7 @@
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1770" y="794" as="sourcePoint" />
-            <mxPoint x="1980" y="794" as="targetPoint" />
+            <mxPoint x="1960" y="794" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-5" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
@@ -184,7 +184,7 @@
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-12" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1962.63" y="967" as="sourcePoint" />
-            <mxPoint x="1962.63" y="1109" as="targetPoint" />
+            <mxPoint x="1962.63" y="1108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UL4q3HKPL_MgyX-ozPFU-14" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=4;endFill=1;" edge="1" parent="1">
