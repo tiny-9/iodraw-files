@@ -14,7 +14,7 @@
           <mxGeometry x="1760" y="1378" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-13" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="1903" y="1343" width="80" height="150" as="geometry" />
+          <mxGeometry x="1903" y="1344" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon30;" parent="1" vertex="1">
           <mxGeometry x="1610" y="1393" width="100" height="70" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="1765" y="1473" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-73" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;LoRaWAN&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="1468" width="120" height="40" as="geometry" />
+          <mxGeometry x="1880" y="1473" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-75" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;应用层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1719" y="900" width="110" height="50" as="geometry" />
