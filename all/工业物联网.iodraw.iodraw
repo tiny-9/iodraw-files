@@ -32,7 +32,7 @@
           <mxGeometry x="1930" y="1595" width="90" height="85" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-66" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actuator;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="1602" width="90" height="75" as="geometry" />
+          <mxGeometry x="1316" y="1602" width="90" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-67" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon24;" parent="1" vertex="1">
           <mxGeometry x="1471" y="1595" width="90" height="85" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="1776" y="1688" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-87" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;执行器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="1689" width="90" height="40" as="geometry" />
+          <mxGeometry x="1313" y="1689" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdcpd74WcqfPVoPeZ2qP-88" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;广域网&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1266" width="90" height="40" as="geometry" />
